@@ -3,7 +3,7 @@
 Your assignment for this week is to build a channel changer app.  You will create an application that displays multiple "genre" buttons and when clicked, displays a random video from that genre.
 
 #### Requirements
-- 
+
 
 #### Get Started
 
@@ -16,5 +16,5 @@ Your assignment for this week is to build a channel changer app.  You will creat
 
 - Commit all of your code
 - Enable GitHub Pages for your repository to get a link where your project is viewable
-- Update the [Complete Homework Doc](XXX) with this link
+- Update the [Complete Homework Doc](https://www.dropbox.com/scl/fi/v1gldrcikmjgicpaa40tq/Week-6-Homework-Completed.paper?dl=0&rlkey=o5pdpws97a26o418ayjzv1v2o) with this link
 - 🏁 All Done 🏁
