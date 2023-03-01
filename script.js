@@ -1,11 +1,10 @@
 console.log('Remove this console log and get started!')
 
 const data = {
-  genres: [
-    // Add your genres here
-
+  channels: [
+    // Add your channel data here
     // {
-    //   title: 'Aliens',
+    //   title: 'UFOs',
     //   videoIds: [
     //     // Add your video IDs here
     //   ]
