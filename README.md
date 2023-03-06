@@ -37,5 +37,5 @@ For example, your channels could be "UFOs", "Eating Competitions" and "Vintage S
 
 - Commit all of your code
 - Enable GitHub Pages for your repository to get a link where your project is viewable
-- Update the [Complete Homework Doc](https://www.dropbox.com/scl/fi/v1gldrcikmjgicpaa40tq/Week-6-Homework-Completed.paper?dl=0&rlkey=o5pdpws97a26o418ayjzv1v2o) with this link
+- Submit this link directly to me via e-mail (bowermas@newschool.edu) before class on Friday
 - 🏁 All Done 🏁
