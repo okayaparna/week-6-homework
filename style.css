@@ -3,50 +3,93 @@
 }
 
 body {
-  font-size: 22px;
-  line-height: 1.5;
-  font-family: Helvetica, sans-serif;
-  color: #111;
   margin: 0;
   padding: 20px 40px;
 
-  display: flex;
+  /* display: flex; */
   align-items: center;
   justify-content: center;
+  background-color: rgb(255, 0, 187);
 }
 
-button {
-  display: inline-block;
-  outline: 0;
-  border: none;
-  box-shadow: none;
-  cursor: pointer;
-  
-  padding: 18px 50px;
-  font-size: 20px;
-  font-weight: bold;
-  color: #FFF;
-  text-transform: uppercase;
-  background: linear-gradient(#0074e4, #5522fa);
-  border-radius: 50px;
-  transition: transform .2s ease;
-}
 
 button:active {
   transform: scale(0.92);
 }
 
-iframe {
+#ifr {
   width: 100%;
   height: auto;
   min-height: 350px;
 }
 
 #tv {
-  margin-bottom: 30px;
+  margin-bottom: 100px;
+  /* font-family: 'Press Start 2P', cursive; */
+text-align: center;
+  font-size: 50px;
+  font-family: 'Press Start 2P', cursive;
+  color:blueviolet;
+}
+
+#tv:hover{
+  color:rgb(47, 255, 0);
+  transition: 0.5s;
 }
 
 #channels {
-  display: flex;
-  gap: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+  padding-left: 30px;
+}
+
+.totallyspies{
+  background-image: url(totallyspies.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  box-shadow: 5px 5px 18px #ffffff;
+}
+
+.benten{
+  background-image: url(benten.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  box-shadow: 5px 5px 18px #ffffff;
+}
+.tomnjerry{
+  background-image: url(tomnjerry.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  width: 300px;
+  box-shadow: 5px 5px 18px #ffffff;
+}
+
+
+
+.description-wrap{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+  padding-top: 30px;
+}
+
+.description-wrap :nth-child(1){
+  text-align: justify;
+  border-right: dotted;
+  border-color: black;
+  padding-right: 15px;
+}
+.description-wrap :nth-child(2){
+  border-right: dotted;
+  border-color: black;
+  padding-right: 15px;
+}
+.description-wrap :nth-child(3){
+  text-align: justify;
 }
