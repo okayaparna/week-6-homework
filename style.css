@@ -50,7 +50,7 @@ text-align: center;
   background-size: cover;
   height: 300px;
   width: 300px;
-  box-shadow: 5px 5px 18px #ffffff;
+  box-shadow: 5px 5px 18px #a200ff;
 }
 
 .benten{
@@ -59,7 +59,7 @@ text-align: center;
   background-size: cover;
   height: 300px;
   width: 300px;
-  box-shadow: 5px 5px 18px #ffffff;
+  box-shadow: 5px 5px 18px #15ff00;
 }
 .tomnjerry{
   background-image: url(tomnjerry.png);
@@ -67,7 +67,7 @@ text-align: center;
   background-size: cover;
   height: 300px;
   width: 300px;
-  box-shadow: 5px 5px 18px #ffffff;
+  box-shadow: 5px 5px 18px #ff0000;
 }
 
 
